@@ -1,0 +1,54 @@
+[submodule "01-tools"]
+	path = 01-tools
+	url = git@github.com:ohm-softa/01-tools.git
+[submodule "02-classes-interfaces"]
+	path = 02-classes-interfaces
+	url = git@github.com:ohm-softa/02-classes-interfaces.git
+[submodule "03-inheritance"]
+	path = 03-inheritance
+	url = git@github.com:ohm-softa/03-inheritance.git
+[submodule "04-generics"]
+	path = 04-generics
+	url = git@github.com:ohm-softa/04-generics.git
+[submodule "05-generics-bounds"]
+	path = 05-generics-bounds
+	url = git@github.com:ohm-softa/05-generics-bounds
+[submodule "06-annotations-reflection"]
+	path = 06-annotations-reflection
+	url = git@github.com:ohm-softa/06-annotations-reflection.git
+[submodule "07-composite-observer-jfx"]
+	path = 07-composite-observer-jfx
+	url = git@github.com:ohm-softa/07-composite-observer-jfx.git
+[submodule "08-singleton-factory-strategy-jfx"]
+	path = 08-singleton-factory-strategy-jfx
+	url = git@github.com:ohm-softa/08-singleton-factory-strategy-jfx.git
+[submodule "09-adapter-flyweight-jfx"]
+	path = 09-adapter-flyweight-jfx
+	url = git@github.com:ohm-softa/09-adapter-flyweight-jfx.git
+[submodule "10-threads-android"]
+	path = 10-threads-android
+	url = git@github.com:ohm-softa/10-threads-android.git
+[submodule "11-futures-android"]
+	path = 11-futures-android
+	url = git@github.com:ohm-softa/11-futures-android.git
+[submodule "11-futures-cli"]
+	path = 11-futures-cli
+	url = git@github.com:ohm-softa/11-futures-cli.git
+[submodule "12-functional-cli"]
+	path = 12-functional-cli
+	url = git@github.com:ohm-softa/12-functional-cli.git
+[submodule "13-map-reduce-collect"]
+	path = 13-map-reduce-collect
+	url = git@github.com:ohm-softa/13-map-reduce-collect.git
+[submodule "10-threads-jfx"]
+	path = 10-threads-jfx
+	url = git@github.com:ohm-softa/10-threads-jfx.git
+[submodule "08-singleton-factory-strategy-android"]
+	path = 08-singleton-factory-strategy-android
+	url = git@github.com:ohm-softa/08-singleton-factory-strategy-android.git
+[submodule "09-adapter-flyweight-android"]
+	path = 09-adapter-flyweight-android
+	url = git@github.com:ohm-softa/09-adapter-flyweight-android.git
+[submodule "07-composite-observer-android"]
+	path = 07-composite-observer-android
+	url = git@github.com:ohm-softa/07-composite-observer-android.git
